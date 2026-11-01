@@ -49,7 +49,7 @@ and testing on an independent dataset are needed to assess generalization.
 
 ## Model
 The trained model is saved as:
-`models/underwater_classifier.keras`
+`underwater_classifier.keras`
 
 ## How to Run
 1. Open `Underwater_Image_Detection.ipynb` in Google Colab.
